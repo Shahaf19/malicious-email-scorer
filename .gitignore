@@ -1,0 +1,24 @@
+# Private working files (not part of the submission)
+CLAUDE.md
+docs/
+*.pdf
+# Reference copy of the original build: source material only, never committed here
+_gmail-threat-scorer/
+
+# Secrets and per-developer config
+.env
+.env.*
+.clasprc.json
+.clasp.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
